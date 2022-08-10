@@ -1,0 +1,20 @@
+{
+  "name": "multiframeworkserver",
+  "version": "1.0.0",
+  "description": "multi-framework server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js -e js,json'"
+  },
+  "author": "Gaston Chatelet",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "swagger-jsdoc": "^6.2.1",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

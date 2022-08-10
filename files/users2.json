@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 0,
+    "firstName": "Mario",
+    "lastName": "Jimenez",
+    "username": "jhvsmArIo",
+    "phone": 69004253432,
+    "cuit": "36345549772",
+    "salary": 93430,
+    "pass": "j6v3m8r0o",
+    "bday": "1988-06-13T03:35:35.824Z",
+    "deleted": true
+  },
+  {
+    "_id": 1,
+    "firstName": "Gaston",
+    "lastName": "Chatelet",
+    "username": "asdsd489s",
+    "phone": 1165834730,
+    "cuit": "20346506742",
+    "salary": 84500,
+    "pass": "sd45d8sssa",
+    "bday": "1989-10-12T00:00:00.000Z",
+    "deleted": false
+  }
+]
